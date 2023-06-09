@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "8jmX+H8k3xWTAZnF48Z0uVcPFuis7nD0vaIzJTU82Ezbg3Ep3voXGzuGSltfWFdDo/V4EY5IsQe/3/IfRIYA3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BRIGIT\\Source\\Repos\\Lab12_Multiplataforma\\Lab12_Multiplataforma\\Lab12_Multiplataforma\\Lab12_Multiplataforma.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BRIGIT\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\BRIGIT\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\BRIGIT\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\BRIGIT\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\BRIGIT\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

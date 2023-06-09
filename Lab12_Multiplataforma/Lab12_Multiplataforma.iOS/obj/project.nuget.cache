@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "f8gx37X5zqwrCZxvlqlbQ0RZ3GR+6/SADsBQiD8Y7PfaZxLa7oI716XI4BtN6R8HkVN6XrWR3ffsrlYgsjbwpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BRIGIT\\Source\\Repos\\Lab12_Multiplataforma\\Lab12_Multiplataforma\\Lab12_Multiplataforma.iOS\\Lab12_Multiplataforma.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BRIGIT\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\BRIGIT\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\BRIGIT\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
